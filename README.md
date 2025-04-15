@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Voysea
 - 👀 I’m interested in Music Production, Web Development and UI/UX Design
-- 🌱 I’m currently studying Computer Science
+- 🌱 I’m currently working in UX Design
 - 📫 Reach me at voysea@pm.me
 
 <!---
